@@ -71,7 +71,7 @@ body{
     border: 1px solid #d1d1d1;
 }
 
-.erro{
+.error{
     animation: shake 0.1s linear 10;
 }
 
